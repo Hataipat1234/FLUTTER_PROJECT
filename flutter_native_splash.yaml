@@ -1,0 +1,6 @@
+flutter_native_splash:
+  color: "#002FFF"
+  image: assets/calendar.png
+  android_gravity: center
+
+flutter:
